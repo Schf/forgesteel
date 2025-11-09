@@ -21,7 +21,7 @@ As a tactician, you have abilities that heal your allies and grant them increase
 	subclassName: 'Tactical Doctrine',
 	subclassCount: 1,
 	primaryCharacteristicsOptions: [
-		[ Characteristic.Might, Characteristic.Reason ]
+		[ Characteristic.Reason ]
 	],
 	primaryCharacteristics: [],
 	featuresByLevel: [
